@@ -1,0 +1,24 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Manas-Kalamkar/jwt-auth#readme",
+  "bugs": {
+    "url": "https://github.com/Manas-Kalamkar/jwt-auth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manas-Kalamkar/jwt-auth.git"
+  },
+  "license": "ISC",
+  "author": "manas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
